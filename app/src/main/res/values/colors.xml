@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#FFF5F5F5</color>
+
+    <color name="primaryColor">#3F51B5</color>
+    <color name="primaryDarkColor">#303F9F</color>
+    <color name="accentColor">#448AFF</color>
+    <color name="botones">#448AFF</color>
+
+    <color name="azul01">#0099CC</color>
+    <color name="azul02">#079DD0</color>
+    <color name="azul03">#0FA1D3</color>
+    <color name="azul04">#16A5D7</color>
+    <color name="azul05">#1DA9DA</color>
+    <color name="azul06">#24ADDE</color>
+    <color name="azul07">#2CB1E1</color>
+    <color name="azul08">#33B5E5</color>
+    <color name="azul09">#50C0E9</color>
+    <color name="azul10">#6DCAEC</color>
+    <color name="azul11">#8AD5F0</color>
+    <color name="azul12">#A8DFF4</color>
+    <color name="azul13">#C5EAF8</color>
+    <color name="azul14">#E2F4FB</color>
+
+    <color name="morado01">#9933CC</color>
+    <color name="morado02">#A041D0</color>
+    <color name="morado03">#A750D3</color>
+    <color name="morado04">#AC59D6</color>
+    <color name="morado05">#B368D9</color>
+    <color name="morado06">#BA75DC</color>
+    <color name="morado07">#C182E0</color>
+    <color name="morado08">#C58BE2</color>
+    <color name="morado09">#CB97E5</color>
+    <color name="morado10">#CF9FE7</color>
+    <color name="morado11">#D6ADEB</color>
+    <color name="morado12">#DDBCEE</color>
+    <color name="morado13">#E5CAF2</color>
+    <color name="morado14">#F5EAFA</color>
+
+    <color name="verde01">#669900</color>
+    <color name="verde02">#6DA000</color>
+    <color name="verde03">#75A800</color>
+    <color name="verde04">#7CAF00</color>
+    <color name="verde05">#83B600</color>
+    <color name="verde06">#8ABD00</color>
+    <color name="verde07">#92C500</color>
+    <color name="verde08">#99CC00</color>
+    <color name="verde09">#A8D324</color>
+    <color name="verde10">#B6DB49</color>
+    <color name="verde11">#C5E26D</color>
+    <color name="verde12">#D3E992</color>
+    <color name="verde13">#E2F0B6</color>
+    <color name="verde14">#F0F8DB</color>
+
+    <color name="naranja01">#FF8A00</color>
+    <color name="naranja02">#FF9105</color>
+    <color name="naranja03">#FF9909</color>
+    <color name="naranja04">#FFA00E</color>
+    <color name="naranja05">#FFA713</color>
+    <color name="naranja06">#FFAE18</color>
+    <color name="naranja07">#FFB61C</color>
+    <color name="naranja08">#FFBD21</color>
+    <color name="naranja09">#FFC641</color>
+    <color name="naranja10">#FFD060</color>
+    <color name="naranja11">#FFD980</color>
+    <color name="naranja12">#FFE3A0</color>
+    <color name="naranja13">#FFECC0</color>
+    <color name="naranja14">#FFF6DF</color>
+    <color name="blanco">#FFFFFF</color>
+
+    <color name="rojo01">#CC0000</color>
+    <color name="rojo02">#D30A0A</color>
+    <color name="rojo03">#DB1313</color>
+    <color name="rojo04">#E21D1D</color>
+    <color name="rojo05">#E92727</color>
+    <color name="rojo06">#F03131</color>
+    <color name="rojo07">#F83A3A</color>
+    <color name="rojo08">#FF4444</color>
+    <color name="rojo09">#FF5F5F</color>
+    <color name="rojo10">#FF7979</color>
+    <color name="rojo11">#FF9494</color>
+    <color name="rojo12">#FFAFAF</color>
+    <color name="rojo13">#FFCACA</color>
+    <color name="rojo14">#FFE4E4</color>
+    <color name="rosa">#E91E63</color>
+    <color name="blancobr">#78ffffff</color>
+</resources>
